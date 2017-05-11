@@ -3,3 +3,5 @@ tool encode - video
 19/1 - 21/1 
 giao diện back-end hoàn thành( login, logout, user, các tool encode video)
 giao diện front-end hoàn thành( login, logout, chỉnh sửa video)
+
+miss
