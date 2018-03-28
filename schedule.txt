@@ -50,3 +50,6 @@ thực tế
 00h15 autoclick
 01h35 đi ngủ 
 		** thực tế **
+21h00 đi làm về
+22h00 ăn cơm
+
