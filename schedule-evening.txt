@@ -4,3 +4,18 @@ Bắt đầu các buổi tối từ 19h30 - 3h00
 2h cv công ty(những việc chưa , đang hoặc sẽ làm trên cty)
 3h freelancer
 
+20/06/1018
+
+1 fix and test module change contact user
+2. đa ngôn ngữ hoàn toàn message, cms node
+3. u1 chat với u2
+
+u1 join room r1
+    r1 : check sc_key_flg
+        true :
+            cho phép chat như bình thường
+        false
+            u1 online u2 chư join vào room
+                sc chưa được thiết lập
+            u1 online u2 join vào room
+                trao đổi sc key
